@@ -1,0 +1,16 @@
+aiogram==2.25.2
+aiosqlite==0.21.0
+apscheduler==3.11.0
+cryptography==45.0.3
+fastapi==0.115.12
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+packaging==24.2
+platformdirs==4.2.2
+pyjwt==2.10.1
+python-dotenv==1.1.0
+sqlalchemy==2.0.29
+tomli==2.0.1
+tzdata==2025.1
+uvicorn==0.34.3
+pymongo[srv]==3.12
